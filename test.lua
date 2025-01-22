@@ -1,4 +1,4 @@
-local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/iUnknownBr/AntLib/refs/heads/main/Antlib"))()
+local redzlib = 
 local gameName = game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name
 local Window = redzlib:MakeWindow({
     Title = "ZuXolo Hub : " .. gameName .. "",
