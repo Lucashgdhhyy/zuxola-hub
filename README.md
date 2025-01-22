@@ -4,7 +4,7 @@ New and the best no key forever!
 
 ```
 ## Changelog
-[![Changelogs](https://img.shields.io/badge/Visite%20o%20GitHub-333333?style=for-the-badge&logo=github&logoColor=white)]()
+[![Changelogs](https://img.shields.io/badge/Changelogs%20%20-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucashgdhhyy/zuxola-hub/blob/main/changelog.md)
 ## Tabs
 ## Blox Fruit Tab
 Redz Hub (PC/Mobile) Close Ui
